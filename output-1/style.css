@@ -1,4 +1,3 @@
-/* Global Styles */
 body {
     font-family: "Arial", sans-serif;
     background-color: #f4f7fc;
@@ -16,7 +15,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Form Styles */
+
 fieldset {
     border: 2px solid #3498db;
     padding: 20px;
@@ -87,7 +86,6 @@ input[type="reset"]:hover {
     opacity: 0.8;
 }
 
-/* Mobile responsiveness */
 @media (max-width: 600px) {
     h1 {
         font-size: 28px;
